@@ -1,0 +1,26 @@
+{
+  "name": "djs-games",
+  "version": "1.6.5",
+  "description": "Mini Oyunlar için Discord Js Paketi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre37destan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emre37destan/djs-games.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-games",
+    "mini-games",
+    "discord.js"
+  ]
+}
